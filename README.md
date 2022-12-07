@@ -1,4 +1,18 @@
-# :construction: README customizado em construção ! :construction:
+# Project Docker To Do List :bookmark: 
+
+## :hammer_and_wrench: Tools
+
+:green_circle: Javascript
+<br>
+
+:green_circle: Docker
+<br>
+
+:green_circle: Dockerfile
+<br>
+
+:green_circle: Docker compose
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
